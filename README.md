@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vishakha Roy
 - 👀 I’m interested in learning new tech
-- 🌱 I’m currently learning React Query and TailwindCSS
+- 🌱 I’m currently learning NextJS
 - 📫 How to reach me - Drop me a mail at vishakha.roy2020@gmail.com 
 
 <!---
