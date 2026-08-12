@@ -2,7 +2,7 @@
 <h3 align="center">Senior Frontend Engineer (9+ yrs) → Transitioning into Data Science & ML Engineering</h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Monserrat&weight=700&size=28&duration=3000&pause=500&color=4EA8DE&center=true&vCenter=true&width=650&lines=Frontend+Architect+%7C+React+%2F+TypeScript;Learning+Data+Science+%2B+ML+Engineering;Building+in+public+%2C+one+model+at+a+time" alt="Typing SVG" />
+Frontend Architect (React / TypeScript) &nbsp;•&nbsp; Learning Data Science + ML Engineering &nbsp;•&nbsp; Building in public, one model at a time
 </p>
 
 <p align="center">
