@@ -115,19 +115,6 @@ An image classification model distinguishing cats from dogs — first hands-on s
 
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
 
-## 📈 GitHub Stats
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=VishRoy&show_icons=true&theme=radical&bg_color=0D1117&title_color=4EA8DE&icon_color=F8D866&text_color=FFFFFF&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=VishRoy&theme=radical&background=0D1117&ring=4EA8DE&fire=F8D866&currStreakLabel=FFFFFF&hide_border=true" height="165"/>
-</p>
-
-<p align="center">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=VishRoy&layout=compact&theme=radical&bg_color=0D1117&title_color=4EA8DE&text_color=FFFFFF&hide_border=true&langs_count=8&exclude_repo=private-repo" />
-</p>
-
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/rainbow.png" />
-
 ## 📫 Let's Connect
 
 <p align="center">
